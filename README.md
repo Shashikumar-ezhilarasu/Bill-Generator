@@ -6,7 +6,7 @@ encompasses the entire process of capturing user input, managing a customer data
 generating detailed bills. The project aims to cater to small to medium-sized grocery stores, providing 
 an efficient and scalable solution for their daily billing needs.
 <br>
-**Future Enhancements:
+Future Enhancements:
 - Barcode Integration: Incorporating barcode scanning for quick and accurate item 
 entry.<br>
 - Loyalty Programs: Integration with customer loyalty programs for enhanced customer 
